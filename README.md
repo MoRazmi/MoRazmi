@@ -1,5 +1,5 @@
 ### Hi there 👋
-I used Github to manage my programing hobbies. 
+I use Github to manage my programing hobbies. 
 I am looking to collarboate on Embedded Software project. 
 
 
