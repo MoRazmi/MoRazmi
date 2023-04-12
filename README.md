@@ -1,4 +1,7 @@
 ### Hi there 👋
+I used Github to manage my programing hobbies. 
+I am looking to collarboate on Embedded Software project. 
+
 
 <!--
 **MoRazmi/MoRazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
